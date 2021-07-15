@@ -1,4 +1,4 @@
-# Blog-App
+# Blog App
 
 It is a very simple blog app which allows the user to create a blog by adding title, image url and body of the blog. Also, later the user can update or delete the blog. All the blogs are visible on the home page with image, title and some body text visible. The layout is very basic.  
 
